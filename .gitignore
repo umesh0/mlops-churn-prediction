@@ -1,1 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# DVC
+.dvc/cache
+
+# OS
+.DS_Store
 venv/
